@@ -57,7 +57,7 @@ First, you need to install Git, if you don’t have it already.
 git version 1.9.3
 
 2. Copy below the output from `git config --global --list`:
-
+hi
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
