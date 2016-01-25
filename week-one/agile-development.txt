@@ -63,7 +63,9 @@ You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
 
 3. Copy below the output from `ssh git@github.com`:
-
+PTY allocation request failed on channel 0
+Hi shefv! You've successfully authenticated, but GitHub does not provide shell access.
+Connection to github.com closed.
 
 Clone your fork of this repository. Then, on your computer, add a remote
 referencing my copy of the repository as the upstream rep by running
