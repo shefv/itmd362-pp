@@ -37,7 +37,11 @@ Every desktop operating system, even older versions of Windows, make it possible
 Use Google or another search engine to learn the keyboard commands to take a screenshot of the portion of your screen that shows the overview of each of your virtual desktops. Create the screenshot, then copy it to this directory (`week-two`) and add and commit it to the repository.
 
 Then, also list here the keyboard commands to switch between your different virtual desktops (on some operating systems, you might be able to customize the shortcuts to your own liking):
-
+Keyboard commands to switch between workspaces:
+Ctrl+X --Switch to workspace 1
+Ctrl+F --Switch to workspace 2
+Ctrl+S --Swtich to workspace 3
+Ctrl+W --Switch to workspace 4
 
 4. Set up a distraction-free browser.
 
