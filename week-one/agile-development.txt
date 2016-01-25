@@ -75,8 +75,8 @@ referencing my copy of the repository as the upstream rep by running
 repository:
 origin  https://github.com/shefv/itmd362-pp.git (fetch)
 origin	https://github.com/shefv/itmd362-pp.git (push)
-upstream	https://github.com/karlstolley/itmd362-pp.git (fetch)
-upstream	https://github.com/karlstolley/itmd362-pp.git (push)
+upstream  https://github.com/karlstolley/itmd362-pp.git (fetch)
+upstream  https://github.com/karlstolley/itmd362-pp.git (push)
 
 Next, you need to install Node.js, and possibly also npm, if you don’t have it
 already.
@@ -85,3 +85,117 @@ already.
 v0.10.36
 
 6. Copy below all of the output from `npm install http-server -g`:
+npm http GET https://registry.npmjs.org/http-server
+npm http 200 https://registry.npmjs.org/http-server
+npm http GET https://registry.npmjs.org/http-server/-/http-server-0.8.5.tgz
+npm http 200 https://registry.npmjs.org/http-server/-/http-server-0.8.5.tgz
+npm http GET https://registry.npmjs.org/colors/1.0.3
+npm http GET https://registry.npmjs.org/optimist
+npm http GET https://registry.npmjs.org/union
+npm http GET https://registry.npmjs.org/ecstatic
+npm http GET https://registry.npmjs.org/http-proxy
+npm http GET https://registry.npmjs.org/portfinder
+npm http GET https://registry.npmjs.org/opener
+npm http GET https://registry.npmjs.org/corser
+npm http 200 https://registry.npmjs.org/colors/1.0.3
+npm http 200 https://registry.npmjs.org/portfinder
+npm http GET https://registry.npmjs.org/colors/-/colors-1.0.3.tgz
+npm http 200 https://registry.npmjs.org/opener
+npm http 200 https://registry.npmjs.org/corser
+npm http GET https://registry.npmjs.org/portfinder/-/portfinder-0.4.0.tgz
+npm http GET https://registry.npmjs.org/opener/-/opener-1.4.1.tgz
+npm http GET https://registry.npmjs.org/corser/-/corser-2.0.0.tgz
+npm http 200 https://registry.npmjs.org/union
+npm http 200 https://registry.npmjs.org/optimist
+npm http GET https://registry.npmjs.org/union/-/union-0.4.4.tgz
+npm http GET https://registry.npmjs.org/optimist/-/optimist-0.6.1.tgz
+npm http 200 https://registry.npmjs.org/http-proxy
+npm http 200 https://registry.npmjs.org/ecstatic
+npm http 200 https://registry.npmjs.org/corser/-/corser-2.0.0.tgz
+npm http 200 https://registry.npmjs.org/opener/-/opener-1.4.1.tgz
+npm http 200 https://registry.npmjs.org/colors/-/colors-1.0.3.tgz
+npm http 200 https://registry.npmjs.org/optimist/-/optimist-0.6.1.tgz
+npm http 200 https://registry.npmjs.org/portfinder/-/portfinder-0.4.0.tgz
+npm http 200 https://registry.npmjs.org/union/-/union-0.4.4.tgz
+npm http GET https://registry.npmjs.org/http-proxy/-/http-proxy-1.12.1.tgz
+npm http GET https://registry.npmjs.org/ecstatic/-/ecstatic-0.7.6.tgz
+npm http 200 https://registry.npmjs.org/ecstatic/-/ecstatic-0.7.6.tgz
+npm http 200 https://registry.npmjs.org/http-proxy/-/http-proxy-1.12.1.tgz
+npm http GET https://registry.npmjs.org/async/0.9.0
+npm http GET https://registry.npmjs.org/mkdirp
+npm http GET https://registry.npmjs.org/eventemitter3
+npm http GET https://registry.npmjs.org/requires-port
+npm http 200 https://registry.npmjs.org/requires-port
+npm http 200 https://registry.npmjs.org/mkdirp
+npm http 200 https://registry.npmjs.org/eventemitter3
+npm http GET https://registry.npmjs.org/requires-port/-/requires-port-1.0.0.tgz
+npm http GET https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz
+npm http GET https://registry.npmjs.org/eventemitter3/-/eventemitter3-1.1.1.tgz
+npm http GET https://registry.npmjs.org/minimist
+npm http GET https://registry.npmjs.org/wordwrap
+npm http GET https://registry.npmjs.org/qs
+npm http 200 https://registry.npmjs.org/async/0.9.0
+npm http 200 https://registry.npmjs.org/requires-port/-/requires-port-1.0.0.tgz
+npm http 200 https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz
+npm http GET https://registry.npmjs.org/async/-/async-0.9.0.tgz
+npm http 200 https://registry.npmjs.org/wordwrap
+npm http GET https://registry.npmjs.org/wordwrap/-/wordwrap-0.0.3.tgz
+npm http 200 https://registry.npmjs.org/qs
+npm http 200 https://registry.npmjs.org/eventemitter3/-/eventemitter3-1.1.1.tgz
+npm http 200 https://registry.npmjs.org/minimist
+npm http GET https://registry.npmjs.org/qs/-/qs-2.3.3.tgz
+npm http GET https://registry.npmjs.org/minimist/-/minimist-0.0.10.tgz
+npm http 200 https://registry.npmjs.org/async/-/async-0.9.0.tgz
+npm http 200 https://registry.npmjs.org/qs/-/qs-2.3.3.tgz
+npm http 200 https://registry.npmjs.org/wordwrap/-/wordwrap-0.0.3.tgz
+npm http 200 https://registry.npmjs.org/minimist/-/minimist-0.0.10.tgz
+npm http GET https://registry.npmjs.org/he
+npm http GET https://registry.npmjs.org/mime
+npm http GET https://registry.npmjs.org/url-join/0.0.1
+npm http GET https://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz
+npm http 200 https://registry.npmjs.org/mime
+npm http 200 https://registry.npmjs.org/url-join/0.0.1
+npm http 200 https://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz
+npm http GET https://registry.npmjs.org/mime/-/mime-1.3.4.tgz
+npm http GET https://registry.npmjs.org/url-join/-/url-join-0.0.1.tgz
+npm http 200 https://registry.npmjs.org/mime/-/mime-1.3.4.tgz
+npm http 200 https://registry.npmjs.org/url-join/-/url-join-0.0.1.tgz
+npm http 200 https://registry.npmjs.org/he
+npm http GET https://registry.npmjs.org/he/-/he-0.5.0.tgz
+npm http 200 https://registry.npmjs.org/he/-/he-0.5.0.tgz
+npm http GET https://registry.npmjs.org/minimist/0.0.8
+npm http 200 https://registry.npmjs.org/minimist/0.0.8
+npm http GET https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz
+npm http 200 https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz
+/bin/http-server -> /lib/node_modules/http-server/bin/http-server
+/bin/hs -> /lib/node_modules/http-server/bin/http-server
+npm WARN unmet dependency /lib/node_modules/block-stream requires inherits@'~2.0.0' but will load
+npm WARN unmet dependency undefined,
+npm WARN unmet dependency which is version undefined
+npm WARN unmet dependency /lib/node_modules/fstream requires inherits@'~2.0.0' but will load
+npm WARN unmet dependency undefined,
+npm WARN unmet dependency which is version undefined
+npm WARN unmet dependency /lib/node_modules/fstream-ignore requires inherits@'2' but will load
+npm WARN unmet dependency undefined,
+npm WARN unmet dependency which is version undefined
+npm WARN unmet dependency /lib/node_modules/fstream-npm requires inherits@'2' but will load
+npm WARN unmet dependency undefined,
+npm WARN unmet dependency which is version undefined
+npm WARN unmet dependency /lib/node_modules/glob requires inherits@'2' but will load
+npm WARN unmet dependency undefined,
+npm WARN unmet dependency which is version undefined
+npm WARN unmet dependency /lib/node_modules/npmconf requires inherits@'~2.0.0' but will load
+npm WARN unmet dependency undefined,
+npm WARN unmet dependency which is version undefined
+npm WARN unmet dependency /lib/node_modules/tar requires inherits@'2' but will load
+npm WARN unmet dependency undefined,
+npm WARN unmet dependency which is version undefined
+http-server@0.8.5 /lib/node_modules/http-server
+├── opener@1.4.1
+├── corser@2.0.0
+├── colors@1.0.3
+├── http-proxy@1.12.1 (eventemitter3@1.1.1, requires-port@1.0.0)
+├── optimist@0.6.1 (wordwrap@0.0.3, minimist@0.0.10)
+├── union@0.4.4 (qs@2.3.3)
+├── ecstatic@0.7.6 (url-join@0.0.1, mime@1.3.4, minimist@1.2.0, he@0.5.0)
+└── portfinder@0.4.0 (async@0.9.0, mkdirp@0.5.1)
