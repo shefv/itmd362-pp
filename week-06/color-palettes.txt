@@ -15,20 +15,21 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: monochrome.PNG
+Explanation of your color choices: I think of a strong color like green that attracts and yet is easy on the eyes.This color should bring an effect of sleekness to a website. 
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
-Explanation of your color choices:
+Filename: shaded.PNG
+Explanation of your color choices: With a website that relates to organic and healthy food I think of green and a slightly yellow palette. The effect of fruits vegetables that are healthy for the customer.
 
+in
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename: complementary.PNG
+Explanation of your color choices: For a banking site, I wanted to stay away from loud color and stay with lighter shades of blue, grey and white. The blue should be the pop of color the website needs and at the same time won't be distracting to the user.
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename: triad.PNG
+Explanation of your color choices: Since the audience is children, I stuck with loud shades of color such as blue, yellow purple and pink. Kids are learning and developing continously, so to appeal and attract that audience I have kept the colors vibrant and bright.
