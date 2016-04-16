@@ -1,0 +1,20 @@
+# Production Problem 6: HTML De-Linting and Validation
+
+## The Problem
+
+Using the HTML Tidy tool, installed as a command-line tool on your computer via instructions at http://www.html-tidy.org, and the HTML validator at http://validator.w3.org, rework the HTML file in this directory (`index.html`) so that is free from errors.
+
+## Resources
+
+* HTML Tidy: http://www.html-tidy.org/
+* HTML Validator: http://validator.w3.org/
+
+## Deliverables
+
+1. First, run HTML Tidy on the index.html file. Copy and paste the errors here:
+
+2. Fix as many errors as are listed by HTML Tidy, and re-run until there are no errors reported. HINT: Always fix the first error reported, then re-run tidy. Then, run the contents of `index.html` through the HTML validator. List any errors that the validator reports here:
+
+3. Finally, fix the errors that are listed by the HTML validator, and commit the `index.html` file in its error-free state.
+
+4. Bonus: What error remained that neither Tidy nor the validator did not catch? Fix it, if you've not already, and mark as its own commit.
