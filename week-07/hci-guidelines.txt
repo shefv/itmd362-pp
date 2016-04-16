@@ -26,11 +26,11 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL):https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+* How you implemented it in your sketch: Having tons of empty space on the welcome page with not alot of options. Just the option to log In. Log in element is highlighted in a way so the user knowns it must have a functionality.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL):https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+* How you implemented it in your sketch: Using a key color such as purple and green. A consistent theme found throughout the mockup pictures
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL):https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+* How you implemented it in your sketch: The welcome shows gives the user a list of options to choose from. They can either log in or be redirected to the IIT school website.
