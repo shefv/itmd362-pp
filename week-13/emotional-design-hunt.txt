@@ -1,0 +1,25 @@
+# Production Problem 8: Emotional Design Hunt
+
+## The Problem
+
+First, read the assigned reading from Donald Norman, listed on the ITMD 362 syllabus.
+
+Then, locate a physical object that you use regularly in your life (does not have to be an electronic or digital object), take a photograph of it, and identify in a sentence or two its visceral, behavioral, and reflective levels of emotional design. Then, develop a list of three qualities in that object’s emotional design that your group might use in your MyIIT redesign project. Be sure to share these with your group.
+
+## Deliverables
+
+A. Photograph of the object (place in the week-12/ directory and commit).
+
+B. Emotional design levels of your object:
+
+* Visceral: I really like this painting, its something my eyes set on atleast once a day.
+
+* Behavioral: This picture is in my room and when I need a break from work or in need of just a 'time-out' the natural beauty and its color soothes me quit fast. 
+
+* Reflective: What makes it extra special is that my fav aunt painted it. To think about all the time, planning and effort it mustve took her to think of me as she painted this product is a nice feeling to have. The earth like colors and a sunset really takes you to a whole new place.
+
+C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
+
+1. The first thing I would say is how appealing this picture is to the viewer's eye. This is something we should incorporate as we plan to redesign the IIT portal
+2.The way my aunt has mixed such varities of colors together yet still made it look like on whole picture is something we need to implement in this project. Sure we have buttons, headers, listeners, pictures etc but they all must have a common theme that flows throughout the redesign.
+3.Lastly, the portal should have some sense of beauty or pride to it for we are IIT students who are currently working to a certain goal of achieving an undergraduate or graduate degree. We should be proud of being Hawks and strive to make it better for the future generations.
