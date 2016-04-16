@@ -1,0 +1,26 @@
+# Production Problem 7: Usability Checklists
+
+## The Problem
+
+Usability checklists are typical, and sometimes mindless, tools/magic tricks used to find usability problems in web and other digital projects. What you are going to do for this Production Problem is to locate at least 2 different usability checklists of at least 25 items (use Google, but challenge yourself to go beyond the first page of results). From those lists, create your own, condensed list of exactly ten items. Share with your group for Project 3 to help yourselves create your own master usability checklist.
+
+## Deliverables
+
+* URLs for the usability checklists you've found:
+
+1.http://www.usability.gov/sites/default/files/documents/guidelines_book.pdf
+2.https://stayintech.com/info/UX
+3. https://www.addthis.com/blog/2015/02/17/10-criteria-for-better-website-usability-heuristics-cheat-sheet/#.VxHY0DArLIU
+
+* Your own condensed, ten-item must-have usability checklist:
+
+1.Understand what is relevent to the user, try to display that information only.
+2.Navigation is consistent on every page the user browses to
+3.Keep the visualizations simple, dont distract the user
+4.Make options more available to the user, so they dont have to remember how to get from point A to point B
+5.Does the information displayed on the page actually help the user
+6.Limit the amount of prose text on the homepage
+7.Keep in mind -- who the audience is for your website
+8.Help the user out if they make mistakes
+9.Try to help the user from making any mistakes in the first place (error-proof)
+10.Do not have unsolicitated windows pop or graphics to the user
